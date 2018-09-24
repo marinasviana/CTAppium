@@ -2,7 +2,7 @@
 
   Funcionalidade: Cadastro
 
-
+    @selenium
     Cenário: Preenche formulário com sucesso
       Dado que estou na tela do formulário
       Quando quando preencher os dados do cadastro corretamente
